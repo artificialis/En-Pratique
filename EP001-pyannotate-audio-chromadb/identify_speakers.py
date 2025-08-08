@@ -11,16 +11,11 @@ import os
 import argparse
 import torch
 import chromadb
-from chromadb.config import Settings
 import numpy as np
-import uuid
 from pyannote.audio import Pipeline
 from pyannote.audio.pipelines.speaker_verification import PretrainedSpeakerEmbedding
 from pyannote.audio import Audio
 from pyannote.core import Segment
-from sklearn.manifold import TSNE
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
 from rich.console import Console
 from rich.traceback import install
 
