@@ -1,0 +1,29 @@
+{
+  "locuteur_a_01.wav": {
+    "SPEAKER_00": "Locuteur_A",
+    "SPEAKER_01": "Locuteur_B"
+  },
+  "locuteur_a_02.wav": {
+    "SPEAKER_00": "La Matinale",
+    "SPEAKER_01": "Locuteur_A"
+  },
+  "locuteur_a_03.wav": {
+    "SPEAKER_00": "Host 1",
+    "SPEAKER_01": "Locuteur_A"
+  },
+  "locuteur_a_04.wav": {
+    "SPEAKER_00": "Locuteur_A",
+    "SPEAKER_01": "Europe 1"
+  },
+  "locuteur_a_05.wav": {
+    "SPEAKER_00": "Locuteur_A",
+    "SPEAKER_01": "Host 2",
+    "SPEAKER_02": "Host 2",
+    "SPEAKER_03": "Host 2"
+  },
+  "locuteur_a_06.wav": {
+    "SPEAKER_00": "Locuteur_A",
+    "SPEAKER_01": "Locuteur_C",
+    "SPEAKER_02": "Locuteur_C"
+  }
+}
